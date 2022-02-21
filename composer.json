@@ -1,16 +1,16 @@
 {
-  "name": "whmcsdes/salcknotifierplus",
-  "description": "Salck notifier plus",
+  "name": "ss/slacknotifierplus",
+  "description": "Slack notifier plus",
   "version": "2.1.0",
   "type": "project",
   "license": "EULA",
-  "homepage": "https://whmcsdes.com",
+  "homepage": "https://spherosolutions.net",
   "authors": [],
   "require": {
   },
   "autoload": {
     "psr-4": {
-      "WHMCSDES\\SalckNotifierPlus\\App\\": "./app"
+      "SS\\SlackNotifierPlus\\App\\": "./app"
     }
   }
 }
