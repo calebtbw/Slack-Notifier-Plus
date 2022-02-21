@@ -1,0 +1,16 @@
+{
+  "name": "whmcsdes/salcknotifierplus",
+  "description": "Salck notifier plus",
+  "version": "2.1.0",
+  "type": "project",
+  "license": "EULA",
+  "homepage": "https://whmcsdes.com",
+  "authors": [],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "WHMCSDES\\SalckNotifierPlus\\App\\": "./app"
+    }
+  }
+}
